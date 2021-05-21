@@ -94,7 +94,7 @@
 		<dependency>
 			<groupId>org.bouncycastle</groupId>
 			<artifactId>bcprov-jdk15on</artifactId>
-			<version>1.64</version>
+			<version>1.66</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
@@ -142,7 +142,7 @@
 		<dependency>
 			<groupId>com.hierynomus</groupId>
 			<artifactId>sshj</artifactId>
-			<version>0.27.0</version>
+			<version>0.30.0</version>
 		</dependency>
 
 
